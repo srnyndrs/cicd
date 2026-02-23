@@ -1,5 +1,8 @@
 # CI/CD
 
+[![Actions Status](https://github.com/srnyndrs/cicd/workflows/Test,%20build%20and%20release/badge.svg)](https://github.com/srnyndrs/cicd/actions)
+
+[Download the latest release](https://github.com/srnyndrs/cicd/releases/tag/latest)
 
 **About this repository**
 
